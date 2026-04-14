@@ -1,0 +1,47 @@
+Modelo O.S.i
+Resposta 1 
+R: camada 3 (rede)
+Resposta 2
+R: sessão: garantir a conexão entre os servidores.
+transporte: transporta os dados ao servidor.
+Resposta 3
+R: camada 1
+
+Roteador
+Resposta 1 
+R: é um dispositivo que garante a transmissão de wifi pelos cômodos de uma casa
+Resposta 2
+R: 2,4Ghz: maior alcance, menos velocidade (áreas grandes)
+5 GHz: menor alcance, menos velocidade (área menores)
+Resposta 3
+R: vantagens: duração prolongada e conexão em uma só rede
+desvantagens: necessita de um posicionamento difícil de acessar
+
+Firewall
+Resposta 1 
+R: por que ele age como uma barreira de fogo que impede a entrada de vírus e arquivos enganosos.
+Resposta 2
+R: o de software fica no sistema operacional
+Resposta 3
+R: sim, pois aumenta a demanda do computador.
+
+Switch
+Resposta 1 
+R: permitir a conexão de diversos dispositivos diferentes 
+Resposta 2
+R: porque transmite os dados de forma física e especifica.
+Resposta 3
+R: na segunda camada
+
+HUB
+Resposta 1 
+R: conectar dispositivos em uma mesma rede
+Resposta 2
+R: vem do conceito de centro, o qual é o sentido literal da palavra "hub"
+Resposta 3
+R: ativo: ampliação de sinal maior e custo alto
+passivo: mais baratos, conectam mais dispositivos
+
+
+
+

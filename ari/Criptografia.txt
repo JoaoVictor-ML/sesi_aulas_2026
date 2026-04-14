@@ -1,0 +1,56 @@
+FIREWALL ---→ Ciber-Segurança (conjunto de práticas, tecnologias e processos voltados a proteger o sistema e dados contra intrusões digitais.);
+   ↓
+Segurança na rede
+   -→ L.G.P.D (lei para a segurança na internet);
+      -→ Dados
+
+CRIPTOGRAFIA
+   -→ Cifra de Cesar
+
+_-_Segurança Cibernética_-_
+
+HISTÓRIA DA SEGURANÇA CIBERNÉTICA
+* década de 1970 = começa a surgir os computadores pessoais (Apple e IBM) (A vulnerabilidade era alta);
+* década de 1980 = surgiu os primeiros worms e malware (Vírus intrusos que pegavam dados) (Ainda são atuais);
+* década de 1990 = aumento da conectividade e expansão do crime cibernético. Começa os ataques de negação de serviços (DDoS (ocorre quando o usuário manda diversas solicitações onde ele não tem acesso causando a negação));
+* década de 2000 = worm "I Love you" (ataque cibernético), vulnerabilidade nos sistemas e preocupação global com os vírus; 
+* década de 2010 = aumento de dispositivos móveis e computação em nuvem introduziu novos vetores de ataque (GDPR se tornou essencial para a segurança);
+* década de 2020 = as ameaças aumentaram com o avanço das inteligências artificiais e Ransomware, necessitando avanço nos meios para combater os vírus.
+
+TIPOS DE ATAQUES CIBERNÉTICAS
+*MALWARE = termo genérico que abrange software malicioso, incluindo vírus worms e ransomware (eles podem infiltrar sistemas, causar danos, roubar dados sensíveis e extorquir o usuário);
+*PHISHING = técnica que busca enganar o usuário para que revelem informações confidenciais, como senhas e dados bancários (ataque realizado em e-mails que aparentam ser de fontes confiáveis);
+*ATAQUES DDoS = ataques de negação de serviço, inundam serviços de uma quantidade excessiva de tráfego de dados comprometendo sua disponibilidade. Esses ataques desativam websites e prejudicam operações de empresas inteiras;
+*ENGENHARIA SOCIAL = manipulação de indivíduos para que revelem informações confidenciais ou realizem ações prejudiciais. (táticas como pretexting e tailgating são comuns nesse tipo de ataque.); 
+
+VULNERABILIDADES CIBERNÉTICAS
+   São fraquezas em sistemas, redes ou aplicativos que podem ser exploradas por atacantes. É crucial identificar essas falhas para prevenir ataques;
+
+TIPOS COMUNS DE VULNERABILIDADE
+   Falhas de software, configurações inadequadas e falta de atualizações de segurança. Cada uma dessas falhas pode ser explorados, permitindo o acesso não autorizado ou a execução de código malicioso.
+
+_-_Criptografia_-_
+
+DEFINIÇÃO DE CRIPTOGRAFIA
+   É o campo da ciência da computação e matemática que protege informações através da transformação de dados legíveis em um formato cifrado, assegurando que apenas partes autorizadas tenham acesso ao conteúdo.
+
+OBJETIVO DA CRIPTOGRAFIA
+   Garantir a confidenciabilidade, a integridade e a autenticidade das informações.
+      -→ Confidencialidade assegura que apenas partes autorizadas podem acessar e compreender as informações.
+         -→ Integridade = garante que as informações não foram alteradas de maneira não autorizada. Técnica como assinatura digitais e códigos de autenticação de mensagem (MAC) verificam a    
+            autenticidade dos dados recebidos. 
+               -→ Autenticidade = verifica a identidade das partes envolvidas na comunicação, garantindo que a informações venham de uma fonte legítima, utilizando certificados digitais e 
+                  sistemas de autenticação para validar dados.
+
+(Cifra de Cesar = pega a letra do alfabeto e escreve 2 letras adiante. ex.: A = C, U = S.)
+
+CRIPTOGRAFIA SIMÉTRICA = Usa a mesma chave para criptografar e descriptografar informações. A segurança depende da manutenção dessa chave em segredo entre as partes envolvidas, tornando-a vulnerável se a chave for exposta.
+
+CRIPTOGRAFIA ASSIMÉTRICA = usa duas chaves, uma pública e uma privada, a chave pública compartilha amplamente e é usada para criptografar dados, enquanto a chave privada, mantida em segredo, é usada para descriptografar.
+
+ALGORITMOS DE CRIPTOGRAFIA = São procedimentos matemáticos para proteger dados. eles variam em complexidade e segurança, sendo usados em diferentes aplicações, como comunicação e armazenamento de dados sensíveis.
+
+AES (Advanced Encryption Standard) = é um dos algoritmos de criptografia simétrico mais utilizado globalmente. Ele foi adotado como padrão pelo governo dos EUA e é conhecido por sua eficiência e segurança, operando em blocos de 128 bits (16 bytes).
+
+RSA (Rivest-Shamir-Adleman) = é um algoritmo de criptografia assimétrico amplamente utilizado para a segurança de dados. Ele se baseia na dificuldade de fatorar grandes números primos, tornando-o uma escolha popular para a troca de chaves e autenticação de dados.
+

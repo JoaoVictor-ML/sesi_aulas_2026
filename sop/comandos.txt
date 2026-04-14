@@ -1,0 +1,12 @@
+COMANDOS NO PROMPT DE COMANDO
+
+cd - caminhar entre as pastas;
+dir - listar pastas;
+mkdir - criar pastas;
+rmdir - remover pastas vazias;
+rmdir /s - remover pastas com subpastas;
+ping + endereço do site - para ver o carregamento de pacotes;
+ping -t + endereço do site - para ver o carregamento de sites continuamente, até que seja cancelado (ctrl + C);
+color (primeiro valor para o fundo / segundo valor para a letra) - para alteras as cores;
+color - retorna na cor original;
+color h - para exibir tabelas de cores.

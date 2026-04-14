@@ -1,0 +1,26 @@
+A = alt + 1 ☺ ☺          
+B = alt + 11  ♂       A = alt + 1 ☺ ☺     
+C = alt + 21 § §
+D = alt + 31 ▼
+E = alt + 41 )
+F = alt + 51 3
+G = alt + 61 =
+H = alt + 71 G 
+I = alt + 81 Q
+J = alt + 91 [
+K = alt + 101 e 
+L = alt + 111 o
+M = alt + 121 y
+N = alt + 131 â 
+O = alt + 141 ì
+P = alt + 151 ù
+Q = alt + 161 í
+R = alt + 171 ½ 
+S = alt + 181 Á
+T = alt + 191 ┐
+U = alt + 201 ╔
+V = alt + 211 Ë 
+W = alt + 221 ¦
+X = alt + 231 þ
+Y = alt + 241 ± 
+Z = alt + 251 ¹

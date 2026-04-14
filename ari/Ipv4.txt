@@ -1,0 +1,37 @@
+Qual o endereço IPV4 do seu computador? 
+R:  192.168.0.145
+Qual o endereço IPV4 do Gateway? 
+R:  192.168.0.1
+Qual o endereço IPV4 do Broadcast?
+R:  192.168.56.255
+Qual o endereço IPV4 da mascara?
+R:  255.255.255.0
+Qual o endereço IPV4 de loop back de seu computador?
+R:  127.0.0.1
+Qual o endereço IPV4 APIPA? 
+R: fake: 192.168.56.1 // real: 169.254.NNN.NNN
+
+O que é?
+IPV4
+menor 0.0.0.0 - 00000000 00000000 00000000 00000000
+maior 255.255.255.255 - 11111111 11111111 11111111 11111111
+
+
+
+Internet - Interligação de redes
+Intranet - Internet particular
+protocolos - http, tcp, ip
+web - (Sufixo) World eletronic business: http:// | .com / .net / .br | .gov(não é web) 
+deep - profundo, redes particulares   
+www - (Prefixo) World Wide Web
+DNS - Domain Name Service - Endereço nominal
+IP: Endereço lógico numérico v4 32 bits v6 128 bits
+MAC: Endereço Físico 48 bits
+
+Converta este MAC adress para Binario: D0-94-66-D6-A9-8b
+D
+13
+84218421
+ D0-94-66-D6-A9-8b
+11010000 10010100 01100110 11010110 10101001 10001011
+bits 6 x 8 = 48bits, é possível endereçar um total de 281.474.976.710.656 dispositivos únicos.

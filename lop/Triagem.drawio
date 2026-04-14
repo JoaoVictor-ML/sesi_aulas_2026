@@ -1,0 +1,174 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="dp_ori8vRSfgwbWpwl1A">
+    <mxGraphModel dx="1271" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TA8YBOAWoEHTKA7QTnls-19" edge="1" parent="1" source="TA8YBOAWoEHTKA7QTnls-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" target="TA8YBOAWoEHTKA7QTnls-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TA8YBOAWoEHTKA7QTnls-3" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" value="Inicío" vertex="1">
+          <mxGeometry height="30" width="80" x="40" y="65" as="geometry" />
+        </mxCell>
+        <mxCell id="TA8YBOAWoEHTKA7QTnls-10" edge="1" parent="1" source="TA8YBOAWoEHTKA7QTnls-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" target="TA8YBOAWoEHTKA7QTnls-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TA8YBOAWoEHTKA7QTnls-5" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" value="Possuí pedido de exame?&lt;div&gt;s ou n&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="256" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TA8YBOAWoEHTKA7QTnls-6" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" value="Fim" vertex="1">
+          <mxGeometry height="30" width="80" x="440" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="TA8YBOAWoEHTKA7QTnls-8" parent="1" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" value="Pedido" vertex="1">
+          <mxGeometry height="60" width="64" x="430" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TA8YBOAWoEHTKA7QTnls-22" edge="1" parent="1" source="TA8YBOAWoEHTKA7QTnls-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" target="TA8YBOAWoEHTKA7QTnls-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TA8YBOAWoEHTKA7QTnls-9" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" value="pedido == &#39;s&#39;" vertex="1">
+          <mxGeometry height="100" width="100" x="543" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TA8YBOAWoEHTKA7QTnls-11" edge="1" parent="1" source="TA8YBOAWoEHTKA7QTnls-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" target="TA8YBOAWoEHTKA7QTnls-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TA8YBOAWoEHTKA7QTnls-12" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" value="Está aguardando o resultado?&lt;div&gt;&#39;s&#39; ou &#39;n&#39;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="100" x="543" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="TA8YBOAWoEHTKA7QTnls-13" edge="1" parent="1" source="TA8YBOAWoEHTKA7QTnls-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" target="TA8YBOAWoEHTKA7QTnls-12" value="não">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TA8YBOAWoEHTKA7QTnls-14" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" value="Qual o tipo de exame?" vertex="1">
+          <mxGeometry height="60" width="100" x="840" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TA8YBOAWoEHTKA7QTnls-15" parent="1" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" value="Tipo" vertex="1">
+          <mxGeometry height="60" width="60" x="860" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="TA8YBOAWoEHTKA7QTnls-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" value="Senha = 0" vertex="1">
+          <mxGeometry height="30" width="80" x="150" y="65" as="geometry" />
+        </mxCell>
+        <mxCell id="TA8YBOAWoEHTKA7QTnls-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" value="Senha = Senha + 1" vertex="1">
+          <mxGeometry height="30" width="114" x="690" y="65" as="geometry" />
+        </mxCell>
+        <mxCell id="TA8YBOAWoEHTKA7QTnls-20" edge="1" parent="1" source="TA8YBOAWoEHTKA7QTnls-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" target="TA8YBOAWoEHTKA7QTnls-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TA8YBOAWoEHTKA7QTnls-26" edge="1" parent="1" source="TA8YBOAWoEHTKA7QTnls-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" target="TA8YBOAWoEHTKA7QTnls-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TA8YBOAWoEHTKA7QTnls-27" edge="1" parent="1" source="TA8YBOAWoEHTKA7QTnls-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.526;entryY=0.298;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" target="TA8YBOAWoEHTKA7QTnls-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TA8YBOAWoEHTKA7QTnls-28" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" value="Tipo == &quot;Admissional&quot;" vertex="1">
+          <mxGeometry height="100" width="150" x="815" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="TA8YBOAWoEHTKA7QTnls-29" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" value="Tipo == demissionall&quot;" vertex="1">
+          <mxGeometry height="100" width="150" x="815" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="TA8YBOAWoEHTKA7QTnls-30" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" value="Tipo == &quot;Periodico&quot;" vertex="1">
+          <mxGeometry height="100" width="150" x="815" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="TA8YBOAWoEHTKA7QTnls-31" edge="1" parent="1" source="TA8YBOAWoEHTKA7QTnls-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" target="TA8YBOAWoEHTKA7QTnls-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TA8YBOAWoEHTKA7QTnls-32" edge="1" parent="1" source="TA8YBOAWoEHTKA7QTnls-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" target="TA8YBOAWoEHTKA7QTnls-29" value="não">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TA8YBOAWoEHTKA7QTnls-33" edge="1" parent="1" source="TA8YBOAWoEHTKA7QTnls-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" target="TA8YBOAWoEHTKA7QTnls-30" value="não">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TA8YBOAWoEHTKA7QTnls-45" edge="1" parent="1" source="TA8YBOAWoEHTKA7QTnls-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" target="TA8YBOAWoEHTKA7QTnls-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="316" y="680" />
+            </Array>
+            <mxPoint x="720" y="680.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TA8YBOAWoEHTKA7QTnls-34" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" value="Sala 4" vertex="1">
+          <mxGeometry height="60" width="100" x="840" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="TA8YBOAWoEHTKA7QTnls-42" edge="1" parent="1" source="TA8YBOAWoEHTKA7QTnls-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1140" y="270" />
+              <mxPoint x="1140" y="730" />
+              <mxPoint x="800" y="730" />
+            </Array>
+            <mxPoint x="800" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TA8YBOAWoEHTKA7QTnls-35" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" value="Sala 1" vertex="1">
+          <mxGeometry height="60" width="100" x="1010" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="TA8YBOAWoEHTKA7QTnls-43" edge="1" parent="1" source="TA8YBOAWoEHTKA7QTnls-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1140" y="410.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TA8YBOAWoEHTKA7QTnls-36" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" value="Sala 2" vertex="1">
+          <mxGeometry height="60" width="100" x="1010" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="TA8YBOAWoEHTKA7QTnls-44" edge="1" parent="1" source="TA8YBOAWoEHTKA7QTnls-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1140" y="550.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TA8YBOAWoEHTKA7QTnls-37" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" value="Sala 3" vertex="1">
+          <mxGeometry height="60" width="100" x="1010" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="TA8YBOAWoEHTKA7QTnls-38" edge="1" parent="1" source="TA8YBOAWoEHTKA7QTnls-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" target="TA8YBOAWoEHTKA7QTnls-35" value="Sim">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TA8YBOAWoEHTKA7QTnls-39" edge="1" parent="1" source="TA8YBOAWoEHTKA7QTnls-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" target="TA8YBOAWoEHTKA7QTnls-36" value="Sim">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TA8YBOAWoEHTKA7QTnls-40" edge="1" parent="1" source="TA8YBOAWoEHTKA7QTnls-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" target="TA8YBOAWoEHTKA7QTnls-37" value="Sim">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TA8YBOAWoEHTKA7QTnls-41" edge="1" parent="1" source="TA8YBOAWoEHTKA7QTnls-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" target="TA8YBOAWoEHTKA7QTnls-34" value="Não">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TA8YBOAWoEHTKA7QTnls-46" parent="1" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" value="Aguardando" vertex="1">
+          <mxGeometry height="60" width="90" x="548" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="TA8YBOAWoEHTKA7QTnls-50" edge="1" parent="1" source="TA8YBOAWoEHTKA7QTnls-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" value="Sim">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="700" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TA8YBOAWoEHTKA7QTnls-52" edge="1" parent="1" source="TA8YBOAWoEHTKA7QTnls-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" target="TA8YBOAWoEHTKA7QTnls-53">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="480" y="400" />
+            </Array>
+            <mxPoint x="480" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TA8YBOAWoEHTKA7QTnls-47" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" value="aguardando == &#39;s&#39;" vertex="1">
+          <mxGeometry height="100" width="130" x="528" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="TA8YBOAWoEHTKA7QTnls-48" edge="1" parent="1" source="TA8YBOAWoEHTKA7QTnls-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.504;entryY=0.222;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" target="TA8YBOAWoEHTKA7QTnls-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TA8YBOAWoEHTKA7QTnls-49" edge="1" parent="1" source="TA8YBOAWoEHTKA7QTnls-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" target="TA8YBOAWoEHTKA7QTnls-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TA8YBOAWoEHTKA7QTnls-51" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" value="Recebe resultado" vertex="1">
+          <mxGeometry height="60" width="100" x="643" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="TA8YBOAWoEHTKA7QTnls-53" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" value="Volte para sua empresa" vertex="1">
+          <mxGeometry height="60" width="100" x="430" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="TA8YBOAWoEHTKA7QTnls-54" edge="1" parent="1" source="TA8YBOAWoEHTKA7QTnls-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" target="TA8YBOAWoEHTKA7QTnls-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TA8YBOAWoEHTKA7QTnls-55" edge="1" parent="1" source="TA8YBOAWoEHTKA7QTnls-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" target="TA8YBOAWoEHTKA7QTnls-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TA8YBOAWoEHTKA7QTnls-56" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;rounded=0;fontSize=23;gradientColor=#97d077;" value="Fluxograma Triagem Clínica" vertex="1">
+          <mxGeometry height="30" width="60" x="132" y="188" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
